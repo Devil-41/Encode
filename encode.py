@@ -1,2 +1,1 @@
-import Dipu
-Dipu.login()
+Pylnit_Dipu
