@@ -1,2 +1,2 @@
 import Dipu
-Dipu login()
+Dipu.login()
