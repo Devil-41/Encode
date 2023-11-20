@@ -1,0 +1,2 @@
+import Dipu
+Dipu.login()
